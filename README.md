@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm julbames06698
 
-<!--
-**julbames06698/julbames06698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 🏒 🛼 🎽 A professional in tech reviews 🌟 🏒 🛼 🎽
 
-Here are some ideas to get you started:
+## About Me
+💡 🎣 🏊 Dedicated to mastering developer relations 💡 🎣 🏊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛶 🎾 🛶 Passionate about open source 🛶 🎾 🛶
+
+### Fun Facts
+🎮 🏏 🚣 A developer in databases 🎮 🏏 🚣
+
+---
+🚵 🏒 🛹 🎱 🥋 Thanks for visiting my profile! 🏒 🏏 🎯 🎱 🎧
